@@ -1,0 +1,19 @@
+{
+    "name": "rschweppes/bitrix-helpers",
+    "autoload": {
+        "files": ["src/bitrix_helpers.php"]
+    },
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    },
+    "keywords": [
+        "bitrix",
+        "helpers",
+        "iblock",
+        "properties",
+        "element",
+        "section"
+    ],
+    "license": "MIT",
+    "version": "1.0.0"
+}
