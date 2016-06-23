@@ -281,3 +281,4 @@ function getIBlockCodeByElement($elementId)
 include 'iblock_tools/getlist.php';
 include 'iblock_tools/getproperties.php';
 include 'iblock_tools/getiblocks.php';
+include 'admin_tools/php_command_line.php';
